@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Sakura🌸</h1>
   <img src="resources/glimpse.gif" alt="Sakura Preview" width="457" height="459">
-  <p>A simple, fast and chromeless image viewer with native support for tiling window managers. Its built in rust with egui and native to linux. The project is still under development and <b>HEAVILY</b> vibe-coded.</p>
+  <p>A simple, fast and chromeless image viewer with native support for tiling window managers on linux. Its built in rust with egui. The project is still under development and <b>HEAVILY</b> vibe-coded.</p>
 </div>
 
 ## Features
